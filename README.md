@@ -1,6 +1,6 @@
 <h1 align="center"> Cuphead PS2</h1>
 <p align="center">
-  <img src="source/assets/logo/cuphead.png" alt="cuphead">
+  <img src="./cuphead.png" alt="cuphead">
 </p>
 
 # 
